@@ -15,6 +15,6 @@ The pipeline consists of **three main steps**:
 3. **Classify prophages** based on gene content and structural features obtained after running PHAROKA
 
 ## Input data files containing the prophage predictions by Phigaro and Phispy
-Phigaro prediction: phigaro.tsv
-Phispy prediction: phispy.tsv
+1. **Phigaro prediction:** phigaro.tsv
+2. **Phispy prediction:** phispy.tsv
 
