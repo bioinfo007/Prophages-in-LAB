@@ -15,6 +15,9 @@ The pipeline consists of **three main steps**:
 3. **Classify prophages** based on gene content and structural features obtained after running PHAROKA
 
 ## Input data files containing the prophage predictions by Phigaro and Phispy
-1. **Phigaro prediction:** phigaro.tsv
-2. **Phispy prediction:** phispy.tsv
+1. **Genome accessions:** Assembly_accessions.txt
+2. **Phigaro prediction:** phigaro.tsv
+3. **Phispy prediction:** phispy.tsv
+## Genomes used in this study are available from NCBI and can be downloaded using the NCBI Datasets command-line interface (CLI), and Assembly_accessions.txt file
+
 
